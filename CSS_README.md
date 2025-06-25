@@ -1,0 +1,31 @@
+body{
+    background-color: #bcb7b7a6;
+    font-family: Arial, sans-serif;
+    color: #333;
+    text-align: center;
+}
+#randomButton{
+    margin: 50px;
+    padding: 20px;
+    font-size: 2em;
+    border-radius: 5px;
+    background-color: aqua;
+   
+    }
+#randomButton:hover{
+    background-color: #0f6ca5;
+    cursor : pointer;
+}
+#mylabel{
+    font-size: 2em;
+    margin-top: 20px;
+    color: hsl(5, 100%, 50%);
+
+}
+#mylabel:hover{
+    color: hsl(5, 100%, 70%);
+}
+h1{
+    font-size: 3em;
+    color: #0f6ca5;
+}
